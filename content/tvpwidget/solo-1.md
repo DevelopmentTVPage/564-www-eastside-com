@@ -8,7 +8,7 @@
     },
     "preload": false,
     "type": "solo",
-    "title": "solo 1",
+    "title": "Name Change",
     "name": "solo-1",
     "channelId": "117407961",
     "layout": "bootstrap"
