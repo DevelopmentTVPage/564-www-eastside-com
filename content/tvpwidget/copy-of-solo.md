@@ -11,5 +11,6 @@
     "title": "copy of solo",
     "name": "copy-of-solo",
     "channelId": "117407961",
-    "layout": "bootstrap"
+    "layout": "bootstrap",
+    "autoplay": true
 }
